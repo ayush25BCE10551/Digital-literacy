@@ -2,7 +2,7 @@
 
 ## 👤 Student Details
 - **Name :** Ayush Singh
-- **Registration Number :** 25BAI10551
+- **Registration Number :** 25BCE10551
 - **Branch :** B.Tech CSE (Core)
 - **Year :** 1st Year  
 
